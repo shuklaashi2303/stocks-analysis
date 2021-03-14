@@ -1,5 +1,9 @@
 # stocks-analysis
 
+# Overview of the Project
+
+This analysis was required to compare the two years stocks analysis 2017 and 2018 returns and to represent the data more clear and concise manner.
+
 # Purpose
 
 The Purpose of this project was to analyze the stocks date of 2017 and 2018n and refactoring to determine whether or not the stocks are worth for investments. The Module helped me to complete the original code but to increase efficiency was the main focus point.
@@ -173,7 +177,7 @@ Also, the results in excel after the code ran:
 
 
 
-#Summary
+# Summary
 
 Refactoring helped Steve to make data look more clean and concise. With harder in programming it helped to execute the logic and write the code more effectively in terms of debugging, clean and fast improvment. However, we do not always have the luxury to refactor our code due to disadvantages. These disadvantages may range from having applications that are too large to not having the proper test cases for the existing codes, which may ultimately pose some risk if we try to refactor our code.
 
